@@ -10,8 +10,6 @@ T-KAN leverages the power of trigonometric polynomials to learn complex patterns
 
 - Based on the Kolmogorov-Arnold representation theorem [1], which states that any continuous function can be represented as a composition of simple functions.
 - Utilizes trigonometric polynomials instead of spline coefficients, enabling efficient learning of complex functions.
-- Achieves improved accuracy and generalization compared to traditional multi-layer perceptrons (MLPs).
-- Provides a more interpretable and efficient representation of complex functions by breaking them down into simpler components.
 
 ## Dependencies
 
